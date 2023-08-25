@@ -1,1 +1,1 @@
-Solana Parser Facilitates Get Account Calls for Defi Accounts
+Solana Parser facilitates the parsing of recent account data. This acts as an RPC cache.
